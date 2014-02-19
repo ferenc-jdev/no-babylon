@@ -1,0 +1,1429 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<JobSearchResults xmlns="http://schemas.aspiremediagroup.net/jobboard/1.0/Beta">
+    <Duration>P0DT0H0M0.46S</Duration>
+    <JobCount>205</JobCount>
+    <JobIDs>
+        <ID>1BD1FAA337B571E21F7D6794653EFD04</ID>
+        <ID>BCF4CA07B3CA2EB4B851E5873C695C9B</ID>
+        <ID>81B0629AC14D7D0711E39A5287ED5207</ID>
+        <ID>CAF82EA9326ED34C9E92F8408D4FD168</ID>
+        <ID>A98373533CE687F15F60A8358E2B02F2</ID>
+        <ID>DBA608A679826442E348D187D9F2C8B3</ID>
+        <ID>1BF55FC38AC77CD694E2DB26E00E283F</ID>
+        <ID>CDD7D175B32E2C588C2AB9112BAB5DD9</ID>
+        <ID>BAF2AE2C9CB562D3636BED123EF283A3</ID>
+        <ID>0ADB5DEBEF7E83B88C38710FB857722E</ID>
+        <ID>0D63D07821D5D9AAA14FFA040740379B</ID>
+        <ID>BC9D127278CC7715D387374AE4DC1F7A</ID>
+        <ID>8A1EC034A6BB0C914221869BCAA68C03</ID>
+        <ID>FADB5499F44A50CCDB0517F0F7A5EB01</ID>
+        <ID>BCBDCBC7990B12E3B56DA84D5178A9FD</ID>
+        <ID>3CDD792BFB5B034B3D3041576388EE7E</ID>
+        <ID>B673F58A2504A978917F1EA34D9CBD2A</ID>
+        <ID>024BBA5EAE8EA5AC28CAE3CCAFFBF57B</ID>
+        <ID>0AC621A1AB12885C256851FD55DF4F36</ID>
+        <ID>5CDFC6645809E3FD5898F60F86859F80</ID>
+    </JobIDs>
+    <Jobs>
+        <Job>
+            <AccountID>0C1CE9DC299C3C02FBC64AF78E33F0BE</AccountID>
+            <AdvertiserName>Optimus Search Limited</AdvertiserName>
+            <AdvertiserReference>JSBERSRTAOB</AdvertiserReference>
+            <ContactName>Alex Olsen-Bray</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-12T08:05:40Z</DatePosted>
+            <Duration></Duration>
+            <Email>Alex.Olsen.8128F.599E5@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;Senior Java Developer - Java/JEE/Spring/Hibernate&lt;/P&gt; &lt;P&gt;My client is
+                an exciting new start up in Berlin. They are looking for an experienced Java Developer to join their
+                team, and help them crack the market. They are based in the logistics market. Although only 1 year old,
+                they have recruited heavily, and are looking to further expand this year.&lt;/P&gt; &lt;P&gt;What you
+                can expect:&lt;/P&gt; &lt;UL&gt; &lt;LI&gt;Developing architectural design for Back End services. &lt;LI&gt;Implementation
+                of new and existing components &lt;LI&gt;Ensure quality of software code &lt;LI&gt;Building expanding
+                Restful APIs that communicate with mobile frontends &lt;/LI&gt;&lt;/UL&gt; &lt;P&gt;What to Bring:&lt;/P&gt;
+                &lt;UL&gt; &lt;LI&gt;At least 4 years' experience with in-depth Java development &lt;LI&gt;Solid
+                understanding of Java/JEE, OOP, Spring/Hibernate, REST, Test &amp;amp; Behaviour &lt;LI&gt;Knowledge of
+                GIT/SVN etc. &lt;LI&gt;Familiar with agile methodologies &lt;LI&gt;It is not a requirement to speak
+                German &lt;/LI&gt;&lt;/UL&gt; &lt;P&gt;If you are looking for a challenging role, where you get to
+                utilize your whole skill set, then this is the company for you. You would be joining at a very exciting
+                time.&lt;/P&gt; &lt;P&gt;If you believe you match the required skills, then please submit your CV!&lt;/P&gt;</HtmlDescription>
+            <ID>1BD1FAA337B571E21F7D6794653EFD04</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-12T08:05:54Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin, Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DIi1i?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DIi1i</PermanentID>
+            <Position>Senior Java Developer - Java/JEE/Spring/Hibernate</Position>
+            <RecruiterName>Optimus Search Limited</RecruiterName>
+            <Salary>Euros 45k - Euros 60k</Salary>
+            <ShortDescription>Senior Java Developer - Java/JEE/Spring/Hibernate My client is an exciting new start up in
+                Berlin. They are looking for an experienced Java Developer to join their team, and help them crack the
+                market. They are based in the logistics market. Although only 1 year old, they have recruited heavily,
+                and are looking to further expand this year. What you can expect: Developing architectural design for
+                Back End services. Implementation of new and existing components Ensure quality of software code
+                Building expanding Restful APIs that communicate with mobile frontends What to Bring: At least 4 years'
+                experience with in-depth Java development Solid understanding of Java/JEE, OOP, Spring/Hibernate, REST,
+                Test &amp; Behaviour Knowledge of GIT/SVN etc. Familiar with agile methodologies It is not a requirement
+                to speak German If you are looking for a challenging role, where you get to utilize your whole skill
+                set, then this is the company for you. You would be joining at a very exciting time. If you believe you
+                match the required skills, then please submit your CV!
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>+44 (0) 20 3418 8033</Telephone>
+        </Job>
+        <Job>
+            <AccountID>5E792EE922607E96229652DB40977B13</AccountID>
+            <AdvertiserName>Darwin Recruitment</AdvertiserName>
+            <AdvertiserReference>JS-HQ00017985</AdvertiserReference>
+            <ContactName>David Manley</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-12T10:07:59Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;JAVA, SPRING, HIBERNATE, MySQL, NOSQL, TOMCAT, JUNIT, JIRA, AGILE, SCRUM, JENKINS,
+                ECLIPSE, RESTFUL, SOAP&lt;BR&gt;&lt;BR&gt;My client is urgently searching for several experienced Java
+                Developers to work on the latest cutting edge system for their automotive client. The ideal candidate
+                should have extensive experience working with open source producs as well as testing and intergation
+                tools such as Jenkins, JIRA, JUnit and Eclipse.&lt;BR&gt;&lt;BR&gt;Experience working in agile
+                development and in an automotive industry would be beneficial.&lt;/P&gt;</HtmlDescription>
+            <ID>BCF4CA07B3CA2EB4B851E5873C695C9B</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-13T14:11:18Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin, Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI8Mo?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI8Mo</PermanentID>
+            <Position>Java Developers</Position>
+            <RecruiterName>Darwin Recruitment</RecruiterName>
+            <Salary>EUR50.00 - EUR65.00 per hour</Salary>
+            <ShortDescription>JAVA, SPRING, HIBERNATE, MySQL, NOSQL, TOMCAT, JUNIT, JIRA, AGILE, SCRUM, JENKINS,
+                ECLIPSE, RESTFUL, SOAP My client is urgently searching for several experienced Java Developers to work
+                on the latest cutting edge system for their automotive client. The ideal candidate should have extensive
+                experience working with open source producs as well as testing and intergation tools such as Jenkins,
+                JIRA, JUnit and Eclipse. Experience working in agile development and in an automotive industry would be
+                beneficial.
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>0044 1277 637971</Telephone>
+        </Job>
+        <Job>
+            <AccountID>DDA9316DFD1896B41744CF3D85D826ED</AccountID>
+            <AdvertiserName>Centum Recruitment Limited</AdvertiserName>
+            <AdvertiserReference>JS JS - 01565 - 0302 - JT</AdvertiserReference>
+            <ContactName>James Bentley</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-10T09:43:45Z</DatePosted>
+            <Duration>6 months</Duration>
+            <Email>James.Bentley.5C0B6.634D7@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;U&gt;&lt;STRONG&gt;Java Developer JEE/Spring/WebSphere/German&lt;/STRONG&gt;&lt;/U&gt;&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Key Skills:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt;1. Fluent communications skills in
+                German and English language&lt;/P&gt; &lt;P&gt;2. Java and JEE developer with experience in the
+                following areas&lt;/P&gt; &lt;P&gt;o Java EE 5 &lt;/P&gt; &lt;P&gt;o Java Spring &lt;/P&gt; &lt;P&gt;o
+                WebSphere Application Server v7 and v8.5 &lt;/P&gt; &lt;P&gt;o WebSphere Portal Server v6.1 and v8.5
+                &lt;/P&gt; &lt;P&gt;o JSF - 1.2 &lt;/P&gt; &lt;P&gt;o Web-Standards - HTML/HTML5, CSS, Ajax &lt;/P&gt;
+                &lt;P&gt;o Tools: Maven, Hudson, Nexus, CVS, SOAPUI, jUnit und jMock &lt;/P&gt; &lt;P&gt;3. DOPIX (from
+                ICON company) - Preferable&lt;/P&gt; &lt;P&gt;4. Understanding SOA (SOA)&lt;/P&gt; &lt;P&gt;5. Very deep
+                knowledge on development with Rational Software Architect/Rational Application Developer&lt;/P&gt; &lt;P&gt;6.
+                Understanding of Insurance domain&lt;/P&gt;</HtmlDescription>
+            <ID>81B0629AC14D7D0711E39A5287ED5207</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-10T09:45:28Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,1048,0,99,0,5</ID>
+                <Latitude>53.56111</Latitude>
+                <Longitude>10.01804</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Hamburg, Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DIaX0?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DIaX0</PermanentID>
+            <Position>Java Developers</Position>
+            <RecruiterName>Centum Recruitment Limited</RecruiterName>
+            <Salary>Market Rate</Salary>
+            <ShortDescription>Java Developer JEE/Spring/WebSphere/German Key Skills: 1. Fluent communications skills in
+                German and English language 2. Java and JEE developer with experience in the following areas o Java EE 5
+                o Java Spring o WebSphere Application Server v7 and v8.5 o WebSphere Portal Server v6.1 and v8.5 o JSF -
+                1.2 o Web-Standards - HTML/HTML5, CSS, Ajax o Tools: Maven, Hudson, Nexus, CVS, SOAPUI, jUnit und jMock
+                3. DOPIX (from ICON company) - Preferable 4. Understanding SOA (SOA) 5. Very deep knowledge on
+                development with Rational Software Architect/Rational Application Developer 6. Understanding of
+                Insurance domain
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>5E792EE922607E96229652DB40977B13</AccountID>
+            <AdvertiserName>Darwin Recruitment</AdvertiserName>
+            <AdvertiserReference>JS-JB JAVADEV - MUNICH</AdvertiserReference>
+            <ContactName>Josh Barber</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-09T15:00:39Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;Java Developer-Spring-Hibernate-Frameworks-QA-Wicket-Munich&lt;/P&gt; &lt;P&gt;Java
+                Entwickler - Munich - Spring - Hibernate - Web Frameworks - Apache - Wicket - QA - Quality Assurance -
+                Code Review - Java - J2EE - Developer - Development - Entwickler - M?nchen&lt;/P&gt; &lt;P&gt;My client
+                are a leading Ecommerce specialist based in Munich, they are currently looking for a talented Java
+                Developer to join their team, in this position you would be responsible for building and extending the
+                current platform, able to architect and implement the solutions, add additions to the platform when
+                required and improve the code base. &lt;BR&gt;&lt;BR&gt;To be considered for this position you will need
+                to have a minimum of 3 years experience working with Java, Spring, Hibernate, Web Frameworks and some
+                experience in Quality Assurance.&lt;/P&gt; &lt;P&gt;If you are interested in developing your career
+                within a leading Ecommerce specialist the please submit your profile and I will be in contact. &lt;/P&gt;</HtmlDescription>
+            <ID>CAF82EA9326ED34C9E92F8408D4FD168</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-11T11:51:15Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>292577,0,2207,0,99,0,5</ID>
+                <Latitude>48.1394</Latitude>
+                <Longitude>11.5738</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Munich, Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DIvhB?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DIvhB</PermanentID>
+            <Position>Java Developer-Spring-Hibernate-Frameworks-QA-Wicket-Munich</Position>
+            <RecruiterName>Darwin Recruitment</RecruiterName>
+            <Salary>EUR50k - EUR55k per annum</Salary>
+            <ShortDescription>Java Developer-Spring-Hibernate-Frameworks-QA-Wicket-Munich Java Entwickler - Munich -
+                Spring - Hibernate - Web Frameworks - Apache - Wicket - QA - Quality Assurance - Code Review - Java -
+                J2EE - Developer - Development - Entwickler - M?nchen My client are a leading Ecommerce specialist based
+                in Munich, they are currently looking for a talented Java Developer to join their team, in this position
+                you would be responsible for building and extending the current platform, able to architect and
+                implement the solutions, add additions to the platform when required and improve the code base. To be
+                considered for this position you will need to have a minimum of 3 years experience working with Java,
+                Spring, Hibernate, Web Frameworks and some experience in Quality Assurance. If you are interested in
+                developing your career within a leading Ecommerce specialist the please submit your profile and I will
+                be in contact.
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>0044 1277 636792</Telephone>
+        </Job>
+        <Job>
+            <AccountID>2EB23B1C54E037CB62668474EB217C1D</AccountID>
+            <AdvertiserName>Templeton and Partners</AdvertiserName>
+            <AdvertiserReference>JSSJC152</AdvertiserReference>
+            <ContactName>Sam Cheal</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-11T12:06:22Z</DatePosted>
+            <Duration>Permanent</Duration>
+            <Email>Sam.Cheal.1C107.BC0B3@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;STRONG&gt;Java Software Developer - FLUENT GERMAN SPEAKING&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Location: &lt;/STRONG&gt;Germany&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Start Date:
+                &lt;/STRONG&gt;ASAP&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Job Type: &lt;/STRONG&gt;Permanent&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Languages:&lt;/STRONG&gt;
+                Fluent German Speaking&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Annual Salary: &lt;/STRONG&gt;euro;40,000-euro;45,000&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Hours per Week:&lt;/STRONG&gt; 40&lt;/P&gt; &lt;P&gt;My client is looking to
+                recruit a fluent German speaking Java Software Developer to be based in their office in Germany. The
+                Java Developer will work with the leading standard software such as the Hybris platform and well known
+                frmaeworks such as Spring, Hibernate and ZK to develop highly professional Java platforms. The Java
+                Developer will be responsible for the implementation and follow-up of projects for the medium and large
+                sized companies my client work with the main aim of the projects being solutions in the field of Master
+                Data Management abd Product Information Management in the print, online and offline media sectors.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Responsibilities:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt; Development of data
+                structures&lt;/P&gt; &lt;P&gt; Analysis and implementation of business logic&lt;/P&gt; &lt;P&gt; GUI
+                development with ZK Framework&lt;/P&gt; &lt;P&gt; Debugging and Deployment&lt;/P&gt; &lt;P&gt;&amp;nbsp;&lt;STRONG&gt;Your
+                Profile:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt; Completed training in computer science or&amp;nbsp;equivalent
+                professional experience&lt;/P&gt; &lt;P&gt; Knowledge in the base regions Ajax, XML, SQL,&amp;nbsp;HTML
+                &amp;amp; CSS&lt;/P&gt; &lt;P&gt; Knowledge in Java application&amp;nbsp;and web frameworks, Linux/Unix
+                and Shell Scripting and C,&amp;nbsp;Oracle, MSSQL are advantageous&lt;/P&gt; &lt;P&gt; Flexibility,
+                quick wit and willingness to learn&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;My client offer:&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;P&gt; In-house training of the highest quality&lt;/P&gt; &lt;P&gt; Varied, ability to work
+                independently in a&amp;nbsp;strong and cooperative team&lt;/P&gt; &lt;P&gt; Excellent working atmosphere&lt;/P&gt;
+                &lt;P&gt; Professional technical environment with internal and external&amp;nbsp;support&lt;/P&gt; &lt;P&gt;
+                Very good development opportunities&lt;/P&gt;</HtmlDescription>
+            <ID>A98373533CE687F15F60A8358E2B02F2</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-13T10:13:47Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,0,0,99,0,5</ID>
+                <Latitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Longitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI3aA?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI3aA</PermanentID>
+            <Position>Java Software Developer - FLUENT GERMAN SPEAKING</Position>
+            <RecruiterName>Templeton and Partners</RecruiterName>
+            <Salary>Euros 40k - 45k per year</Salary>
+            <ShortDescription>Java Software Developer - FLUENT GERMAN SPEAKING Location: Germany Start Date: ASAP Job
+                Type: Permanent Languages: Fluent German Speaking Annual Salary: euro;40,000-euro;45,000 Hours per Week:
+                40 My client is looking to recruit a fluent German speaking Java Software Developer to be based in their
+                office in Germany. The Java Developer will work with the leading standard software such as the Hybris
+                platform and well known frmaeworks such as Spring, Hibernate and ZK to develop highly professional Java
+                platforms. The Java Developer will be responsible for the implementation and follow-up of projects for
+                the medium and large sized companies my client work with the main aim of the projects being solutions in
+                the field of Master Data Management abd Product Information Management in the print, online and offline
+                media sectors. Responsibilities: Development of data structures Analysis and implementation of business
+                logic GUI development with ZK Framework Debugging and Deployment Your Profile: Completed training in
+                computer science or equivalent professional experience Knowledge in the base regions Ajax, XML, SQL,
+                HTML &amp; CSS Knowledge in Java application and web frameworks, Linux/Unix and Shell Scripting and C,
+                Oracle, MSSQL are advantageous Flexibility, quick wit and willingness to learn My client offer: In-house
+                training of the highest quality Varied, ability to work independently in a strong and cooperative team
+                Excellent working atmosphere Professional technical environment with
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>0C1CE9DC299C3C02FBC64AF78E33F0BE</AccountID>
+            <AdvertiserName>Optimus Search Limited</AdvertiserName>
+            <AdvertiserReference>JSSJC-NUR-AS</AdvertiserReference>
+            <ContactName>Astor Sonnen</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-12T08:18:02Z</DatePosted>
+            <Duration>6 months +</Duration>
+            <Email>Astor.Sonnen.1D668.4225D@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;STRONG&gt;Java Senior Consultant - Java EE - Urgent Contract - Nuremberg&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;P&gt;Senior Java Consultant is needed to join a successful company in Nuremberg. The contract is
+                long term with an initial period of 6 months, with a high likelihood of extension. The role is inclusive
+                of excellent rates. &amp;nbsp;&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Role Responsibilities:&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;UL&gt; &lt;LI&gt;Leading role in the design and design of software solutions based on JavaEE &lt;LI&gt;Modelling
+                of architecture proposals based on documented requirements &lt;LI&gt;Advice to the internal stakeholders
+                in terms of technologies and implementation options &lt;LI&gt;Analysis and optimization of development
+                processes to increase efficiency &lt;LI&gt;Realization of development targets in agile teams &lt;LI&gt;Implementation
+                of design and code reviews, including performance tuning &lt;/LI&gt;&lt;/UL&gt; &lt;P&gt;&lt;STRONG&gt;Required
+                Skills:&lt;/STRONG&gt;&lt;/P&gt; &lt;UL&gt; &lt;LI&gt;Very good knowledge in object-oriented programming
+                as well as in application architecture and development, design and architecture patterns &lt;LI&gt;Experience
+                in the following frameworks and technologies: Hibernate 4.0 and JPA, Spring 3.2, Maven 3.0, EJB 3.0 &lt;LI&gt;Experiences
+                in large development projects &lt;LI&gt;Knowledge of Agile Software Development with Scrum &lt;LI&gt;Minimum
+                B1 German&amp;nbsp;&lt;/LI&gt;&lt;/UL&gt; &lt;P&gt;Send your CV to Astor now for immediate
+                consideration.&lt;/P&gt;</HtmlDescription>
+            <ID>DBA608A679826442E348D187D9F2C8B3</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-13T11:01:16Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>90438,0,2207,0,99,0,5</ID>
+                <Latitude>49.45138</Latitude>
+                <Longitude>11.07638</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Nurnberg</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI8CY?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI8CY</PermanentID>
+            <Position>Java Senior Consultant - Java EE - Urgent Contract - Nuremberg</Position>
+            <RecruiterName>Optimus Search Limited</RecruiterName>
+            <Salary>Up to Euros 90 per hour</Salary>
+            <ShortDescription>Java Senior Consultant - Java EE - Urgent Contract - Nuremberg Senior Java Consultant is
+                needed to join a successful company in Nuremberg. The contract is long term with an initial period of 6
+                months, with a high likelihood of extension. The role is inclusive of excellent rates. Role
+                Responsibilities: Leading role in the design and design of software solutions based on JavaEE Modelling
+                of architecture proposals based on documented requirements Advice to the internal stakeholders in terms
+                of technologies and implementation options Analysis and optimization of development processes to
+                increase efficiency Realization of development targets in agile teams Implementation of design and code
+                reviews, including performance tuning Required Skills: Very good knowledge in object-oriented
+                programming as well as in application architecture and development, design and architecture patterns
+                Experience in the following frameworks and technologies: Hibernate 4.0 and JPA, Spring 3.2, Maven 3.0,
+                EJB 3.0 Experiences in large development projects Knowledge of Agile Software Development with Scrum
+                Minimum B1 German Send your CV to Astor now for immediate consideration.
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>44 20 3418 8033</Telephone>
+        </Job>
+        <Job>
+            <AccountID>5EBFD249BC9229FB962FEF2C32BAE881</AccountID>
+            <AdvertiserName>Options Group</AdvertiserName>
+            <AdvertiserReference>JS9139534/7665877</AdvertiserReference>
+            <ContactName>Options Group</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-15T17:13:57Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Java Application Manager (m/w) -banking software - Munchen &lt;BR&gt;Die Options Group
+                bietet Banken und Finanzdienstleistern eine Reihe von integrierten Dienstleistungen an, darunter
+                Executive Search, Marktinformationen und Strategische Beratung. Im Bereich Executive Search bieten wir
+                mit elf Buros weltweit regionale, nationale als auch globale Suchen nach Fachspezialisten an. Options
+                Group vermittelt in die Bereiche: Global Markets, Alternative Investments/Hedge Funds, Investment
+                Banking, Asset Management, Technology und Private Banking.&lt;BR&gt;Die Options Group mochte Kandidaten
+                Moglichkeiten und neue Herausforderungen aufzeigen, frei nach dem Leitsatz: "Know your Options!" &lt;BR&gt;&lt;BR&gt;Fur
+                meinen Kunden in Munchen, ein fuhrendes Kreditinstitut, suche ich aktuell fur eine Inhouse Position
+                einen IT Application Manager (m/w) zur Entwicklung und Betreuung von Applikationen im Java Umfeld. &lt;BR&gt;Java
+                Application Manager (m/w) -banking software - Munchen.&lt;BR&gt;&lt;BR&gt;Tatigkeiten &lt;BR&gt; &lt;UL&gt;
+                &lt;LI&gt;Technische und fachliche Verantwortung fur ein Portfolio von Anwendungen imJAVA Middleware
+                (Integration Solution) und Portal - Umfeld &lt;LI&gt;Planung und Durchfuhrung von Entwicklungs-, und
+                Supportaktivitaten innerhalb derPlattform/Bankfachlichkeit in enger Abstimmung mit den Fachbereichen
+                &lt;LI&gt;Vorgabe von Richtlinien fur die Architektur &lt;LI&gt;Leitung von Projekten-/Teilprojekten
+                innerhalb des verantworteten Aufgabenbereichsin der Business Area Information Technology &lt;LI&gt;Koordination
+                des Releasemanagements im betreuten Umfeld &lt;LI&gt;Sicherstellung der Einhaltung von Compliance,
+                MaRisk, Governance und sonstigerregulatorischer Anforderungen im verantworteten Aufgabenbereich &lt;LI&gt;Analyse,
+                Bewertung und Dokumentation der Businessanforderungen &lt;LI&gt;uberwachung der Systemperformance &lt;LI&gt;Betreuung
+                und Wartung der eingesetzten Applikationen &lt;LI&gt;Beratung und Schulung der User der Applikationen
+                &lt;LI&gt;Technische und fachliche Verantwortung fur eine Anwendung im .Net-Umfeld&lt;/LI&gt;&lt;/UL&gt;Ihr
+                Profil &lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Studium der Informatik, Natur- oder Wirtschaftswissenschaften
+                bzw. Ausbildung im Bereich IT &lt;LI&gt;Erfahrung als Software Engineer oder Application Support Analyst
+                bevorzugt in der Finanzindustrie &lt;LI&gt;Sehr gute Java Kenntnisse &lt;LI&gt;Gute JEE Kenntnisse,
+                bevorzugt JBoss, Hibernate, Spring, Oracle, PL/SQL &lt;LI&gt;Erfahrungen im Umgang mit
+                Bankapplikationen, sowie in der Zusammenarbeit mit den fachbereichen einer Bank &lt;LI&gt;Erfahrungen in
+                der Betreuung von Applikationen im Middleware Umfeld &lt;LI&gt;Perl, Shellskripte &lt;LI&gt;gute Deutsch
+                - und Englischkenntnisse&lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;Im Herzen von Munchen wartet ein Arbeitgeber mit
+                einem sehr guten und familiaren Betriebsklima auf Sie, der Ihnen Fortbildungsmassnahmen eroffnet und Ihr
+                Talent fordert. &lt;BR&gt;Mein Kunde bietet Ihnen die Moglichkeit Verantwortung zu ubernehmen und Ihre
+                Erfahrungen und Kenntnisse produktiv
+            </HtmlDescription>
+            <ID>1BF55FC38AC77CD694E2DB26E00E283F</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-15T17:15:32Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>292577,0,2207,0,99,0,5</ID>
+                <Latitude>48.1394</Latitude>
+                <Longitude>11.5738</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>M?nchen, Bayern</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJLy9?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJLy9</PermanentID>
+            <Position>Java Application Manager (m/w) -banking software - Munchen</Position>
+            <RecruiterName>Options Group</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Java Application Manager (m/w) -banking software - Munchen Die Options Group bietet Banken
+                und Finanzdienstleistern eine Reihe von integrierten Dienstleistungen an, darunter Executive Search,
+                Marktinformationen und Strategische Beratung. Im Bereich Executive Search bieten wir mit elf Buros
+                weltweit regionale, nationale als auch globale Suchen nach Fachspezialisten an. Options Group vermittelt
+                in die Bereiche: Global Markets, Alternative Investments/Hedge Funds, Investment Banking, Asset
+                Management, Technology und Private Banking. Die Options Group mochte Kandidaten Moglichkeiten und neue
+                Herausforderungen aufzeigen, frei nach dem Leitsatz: "Know your Options!" Fur meinen Kunden in Munchen,
+                ein fuhrendes Kreditinstitut, suche ich aktuell fur eine Inhouse Position einen IT Application Manager
+                (m/w) zur Entwicklung und Betreuung von Applikationen im Java Umfeld. Java Application Manager (m/w)
+                -banking software - Munchen. Tatigkeiten Technische und fachliche Verantwortung fur ein Portfolio von
+                Anwendungen imJAVA Middleware (Integration Solution) und Portal - Umfeld Planung und Durchfuhrung von
+                Entwicklungs-, und Supportaktivitaten innerhalb derPlattform/Bankfachlichkeit in enger Abstimmung mit
+                den Fachbereichen Vorgabe von Richtlinien fur die Architektur Leitung von Projekten-/Teilprojekten
+                innerhalb des verantworteten Aufgabenbereichsin der Business Area Information Technology Koordination
+                des Releasemanagements im betreuten Umfeld Sicherstellung der Einhaltung von Compliance,
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>94CE76A9766A778DC7C2F042413000A8</AccountID>
+            <AdvertiserName>Computer Futures</AdvertiserName>
+            <AdvertiserReference>JS-CF-12294332</AdvertiserReference>
+            <ContactName>Yanina Kirova</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-13T13:02:28Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;SENIOR JAVA SOFTWARE ENGINEER (M/W) IN BERLIN GESUCHT&lt;/P&gt; &lt;P&gt;WER WIR
+                SIND&lt;/P&gt; &lt;P&gt;Das Unternehmen mit Sitz in der Schweiz ist Outsourcing-Partner gro?er
+                Handelsunternehmen f?r alle Prozesse rund um Online-Payment. Als international agierendes Unternehmen
+                mit Niederlassungen in Gro?britannien, Deutschland und Spanien l?sen wir alle Problemstellungen rund um
+                das Bezahlen auf den eCommerce Seiten unserer Partner unter Einsatz von neuesten Technologien und unter
+                Umsetzung sehr kreativer und innovativer Strategien. Dabei besch?ftigen wir uns in unserer
+                Tochtergesellschaft in Berlin, in einem interdisziplin?ren Team von Entwicklern neben dem Aufbau und
+                Betrieb einer hochperformanten Processing-Plattform ganz speziell mit Methoden und Technologien zur
+                Betrugspr?vention im Online-Handel.&lt;/P&gt; &lt;P&gt;WAS DICH ERWARTET&lt;/P&gt; &lt;P&gt;Als Java
+                Software Engineer bist Du unter anderem f?r die kreative technische Umsetzung von Konzepten zur
+                Betrugsvermeidung im Online-Handel verantwortlich. Du wirst dabei mit viel Engagement und im Team sehr
+                eigenverantwortlich daran arbeiten, L?sungen zu entwickeln, die es m?glich machen betr?gerisches Handeln
+                z.B. anhand von Mustern fr?hzeitig zu erkennen. Du hast Spa? daran, den mit viel krimineller Energie
+                ausgestatteten Betr?gern auf die Spur zu kommen und ihnen das Einkaufen bei den uns angeschlossenen
+                H?ndlern nahezu unm?glich zu machen.&lt;/P&gt; &lt;P&gt;WAS WIR BIETEN &lt;/P&gt; &lt;P&gt;* Ab sofort
+                eine Vollzeitstelle als Java Software Engineer im Zentrum von Berlin&lt;/P&gt; &lt;P&gt;* Ein kleines,
+                interdisziplin?res, dynamisches und motiviertes Team mit flachen Hierarchien und offener
+                Unternehmenskultur&lt;/P&gt; &lt;P&gt;* gute Weiterbildungsm?glichkeiten, flexible Arbeitsabl?ufe und
+                Zeiteinteilung&lt;/P&gt; &lt;P&gt;* die Chance, Erfahrung in einem internationalen Startup zu sammeln
+                und dessen Entwicklung aktiv mitzugestalten&lt;/P&gt; &lt;P&gt;* die M?glichkeit, Dich mit Deinen Ideen
+                und F?higkeiten voll einzubringen und Verantwortung zu ?bernehmen&lt;/P&gt; &lt;P&gt;* Einen
+                Arbeitsalltag mit kurzen Entscheidungswegen, interessanten Projekten und hoher Flexibilit?t&lt;/P&gt;
+                &lt;P&gt;WAS DU MITBRINGST&lt;/P&gt; &lt;P&gt;* Abgeschlossenes Studium der Informatik oder
+                vergleichbare Qualifikation&lt;/P&gt; &lt;P&gt;* Mind. 4 Jahre Berufserfahrung in Backend- und/oder
+                Webentwicklung&lt;/P&gt; &lt;P&gt;* Sehr gute Kenntnisse im Umgang mit und Einsatz von Java, Spring und
+                Hibernate&lt;/P&gt; &lt;P&gt;* Gute Kenntnisse im Bereich Softwarearchitektur sicherheits- und
+                performancekritischer Systeme&lt;/P&gt; &lt;P&gt;* Erfahrung in Maven, MySQL, MongoDB und GWT&lt;/P&gt;
+                &lt;P&gt;* Team- und Kommunikationsf?higkeit&lt;/P&gt; &lt;P&gt;* Verantwortungs- und
+                Qualit?tsbewusstsein&lt;/P&gt; &lt;P&gt;* Gute Englisch- und Deutschkenntnisse in Wort und Schrift&lt;/P&gt;
+                &lt;P&gt;DEIN EINSTIEG&lt;/P&gt; &lt;P&gt;Wenn wir Dein Interesse geweckt haben, dann freuen wir uns auf
+                Deine aussagekr?ftigen Bewerbungsunterlagen (Lebenslauf, Zeugnisse).&lt;/P&gt;</HtmlDescription>
+            <ID>CDD7D175B32E2C588C2AB9112BAB5DD9</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T10:35:26Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin, Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJCxi?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJCxi</PermanentID>
+            <Position>Java Software Engineer (m/w) n Berlin gesucht</Position>
+            <RecruiterName>Computer Futures</RecruiterName>
+            <Salary>EUR50k - EUR60k per annum</Salary>
+            <ShortDescription>SENIOR JAVA SOFTWARE ENGINEER (M/W) IN BERLIN GESUCHT WER WIR SIND Das Unternehmen mit
+                Sitz in der Schweiz ist Outsourcing-Partner gro?er Handelsunternehmen f?r alle Prozesse rund um
+                Online-Payment. Als international agierendes Unternehmen mit Niederlassungen in Gro?britannien,
+                Deutschland und Spanien l?sen wir alle Problemstellungen rund um das Bezahlen auf den eCommerce Seiten
+                unserer Partner unter Einsatz von neuesten Technologien und unter Umsetzung sehr kreativer und
+                innovativer Strategien. Dabei besch?ftigen wir uns in unserer Tochtergesellschaft in Berlin, in einem
+                interdisziplin?ren Team von Entwicklern neben dem Aufbau und Betrieb einer hochperformanten
+                Processing-Plattform ganz speziell mit Methoden und Technologien zur Betrugspr?vention im Online-Handel.
+                WAS DICH ERWARTET Als Java Software Engineer bist Du unter anderem f?r die kreative technische Umsetzung
+                von Konzepten zur Betrugsvermeidung im Online-Handel verantwortlich. Du wirst dabei mit viel Engagement
+                und im Team sehr eigenverantwortlich daran arbeiten, L?sungen zu entwickeln, die es m?glich machen
+                betr?gerisches Handeln z.B. anhand von Mustern fr?hzeitig zu erkennen. Du hast Spa? daran, den mit viel
+                krimineller Energie ausgestatteten Betr?gern auf die Spur zu kommen und ihnen das Einkaufen bei den uns
+                angeschlossenen H?ndlern nahezu unm?glich zu machen. WAS WIR BIETEN. Ab sofort eine Vollzeitstelle als
+                Java Software Engineer im Zentrum von Berlin. Ein kleines, interdisziplin?res, dynamisches und
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>+49 30 22 15 20 555</Telephone>
+        </Job>
+        <Job>
+            <AccountID>6F3E51CCFC5C228EDA2A4A215DE6CBE1</AccountID>
+            <AdvertiserName>Damco Solutions</AdvertiserName>
+            <AdvertiserReference>JSJAVA</AdvertiserReference>
+            <ContactName>Rajendra Billuri</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-11T16:31:11Z</DatePosted>
+            <Duration>6 months</Duration>
+            <Email>Rajendra.Billuri.85489.622DE@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;STRONG&gt;Role: Java Developer-Adobe CQ5&lt;/STRONG&gt;&lt;BR&gt;&lt;STRONG&gt;Duration:
+                6 months&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Location: Frankfurt, Germany&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Skills &amp;amp; Description:&lt;/STRONG&gt;&lt;/P&gt; &lt;UL&gt; &lt;LI&gt;Sound
+                knowledge of core Java, JSP, JSF concepts &lt;LI&gt;Firm understanding of Java in the context of CQ5.
+                Experience with server setup and overall best CQ5 practices &lt;LI&gt;Creating, developing and deploying
+                custom components in Java for CQ5. &lt;LI&gt;Adobe CQ5/WEM foundational concepts and a solid
+                understanding of CQ5 building blocks, SLING,&lt;BR&gt;FELIX, JSR-170, JCR, Jackrabbit, Felix, Spring
+                &lt;LI&gt;Experience working with creative Web design teams to implement Web designs in CQ5 &lt;LI&gt;Templating
+                sites for CQ5 (CSS, JavaScript, JQuery, AJAX and HTML) &lt;LI&gt;Complete understanding of CRX as a
+                repository &lt;LI&gt;Experience with a Server Side framework and page templating (JSTL, .NET, RoR, etc.)
+                &lt;LI&gt;Experience with XSLT and XML &lt;LI&gt;Experience with RESTful and SOAP-based web services
+                &lt;LI&gt;Experience with web and application Servers, such as Apache and Tomcat &lt;LI&gt;Managing CQ5
+                sites hosted in the Amazon Cloud (AWS) would be a plus &lt;LI&gt;Experience with version control systems
+                (SVN, Git, etc.) &lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>BAF2AE2C9CB562D3636BED123EF283A3</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-13T10:45:30Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>32523,0,2208,0,99,0,5</ID>
+                <Latitude>50.1</Latitude>
+                <Longitude>8.66666</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Frankfurt</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI38u?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI38u</PermanentID>
+            <Position>Java Developer-Adobe CQ5</Position>
+            <RecruiterName>Damco Solutions</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Role: Java Developer-Adobe CQ5 Duration: 6 months Location: Frankfurt, Germany Skills
+                &amp; Description: Sound knowledge of core Java, JSP, JSF concepts Firm understanding of Java in the
+                context of CQ5. Experience with server setup and overall best CQ5 practices Creating, developing and
+                deploying custom components in Java for CQ5. Adobe CQ5/WEM foundational concepts and a solid
+                understanding of CQ5 building blocks, SLING, FELIX, JSR-170, JCR, Jackrabbit, Felix, Spring Experience
+                working with creative Web design teams to implement Web designs in CQ5 Templating sites for CQ5 (CSS,
+                JavaScript, JQuery, AJAX and HTML) Complete understanding of CRX as a repository Experience with a
+                Server Side framework and page templating (JSTL, .NET, RoR, etc.) Experience with XSLT and XML
+                Experience with RESTful and SOAP-based web services Experience with web and application Servers, such as
+                Apache and Tomcat Managing CQ5 sites hosted in the Amazon Cloud (AWS) would be a plus Experience with
+                version control systems (SVN, Git, etc.)
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>+44 203 519 0827/ 2032</Telephone>
+        </Job>
+        <Job>
+            <AccountID>5EBFD249BC9229FB962FEF2C32BAE881</AccountID>
+            <AdvertiserName>Vivid Resourcing - DE</AdvertiserName>
+            <AdvertiserReference>JS9152237/7506659</AdvertiserReference>
+            <ContactName>Vivid Resourcing - DE</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-12T19:01:04Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>My client in Stuttgart are currently looking for a Java Developer to join their team on a
+                12 Month basis.&lt;BR&gt;They can pay up to 58 Euros per hour. &lt;BR&gt;&lt;BR&gt;Practical programming
+                experience in Java (at least 5 years) &lt;BR&gt;&lt;BR&gt;Sound knowledge in dealing with architectures:
+                &lt;BR&gt;JEE5 or higher (at least 3 years in at least 2 projects) &lt;BR&gt;EJB 3.0 or later &lt;BR&gt;JAX-WS
+                &lt;BR&gt;JPA &lt;BR&gt;WSDL/SOAP and OSGi &lt;BR&gt;UML 2.0 &lt;BR&gt;&lt;BR&gt;Sound knowledge in
+                dealing with frameworks (at least 2 projects): &lt;BR&gt;Spring 2.5 upwards, especially Spring Core and
+                Spring Batch &lt;BR&gt;Hibernate &lt;BR&gt;Appache Commons, particularly frameworks Logging
+                Configuration and Lang. &lt;BR&gt;JUnit &lt;BR&gt;DBUnit &lt;BR&gt;Practical experience in dealing with
+                interfaces &lt;BR&gt;Network protocols (HTTP, TCP) &lt;BR&gt;XML &lt;BR&gt;XML processing with StAX &lt;BR&gt;XML
+                processing with other frameworks (eg JAXB) &lt;BR&gt;Practical experience in working with databases and
+                application Servers (minimum 2 years)&lt;BR&gt;SQL &lt;BR&gt;JBoss Application Server &lt;BR&gt;Practical
+                experience with operating systems (at least 2 years) &lt;BR&gt;Linux &lt;BR&gt;Windows &lt;BR&gt;Advantageous:
+                &lt;BR&gt;Coaching in the technologies used &lt;BR&gt;&lt;BR&gt;The provided software is used
+                exclusively on Linux platforms.
+            </HtmlDescription>
+            <ID>0ADB5DEBEF7E83B88C38710FB857722E</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-12T19:01:45Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>97288,0,71,0,99,0,5</ID>
+                <Latitude>48.77582</Latitude>
+                <Longitude>9.18249</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Stuttgart, Baden-W?rttemberg</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DInTi?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DInTi</PermanentID>
+            <Position>Java Developer - Stuttgart - 1 Year Contract</Position>
+            <RecruiterName>Vivid Resourcing - DE</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>My client in Stuttgart are currently looking for a Java Developer to join their team on a
+                12 Month basis. They can pay up to 58 Euros per hour. Practical programming experience in Java (at least
+                5 years) Sound knowledge in dealing with architectures: JEE5 or higher (at least 3 years in at least 2
+                projects) EJB 3.0 or later JAX-WS JPA WSDL/SOAP and OSGi UML 2.0 Sound knowledge in dealing with
+                frameworks (at least 2 projects): Spring 2.5 upwards, especially Spring Core and Spring Batch Hibernate
+                Appache Commons, particularly frameworks Logging Configuration and Lang. JUnit DBUnit Practical
+                experience in dealing with interfaces Network protocols (HTTP, TCP) XML XML processing with StAX XML
+                processing with other frameworks (eg JAXB) Practical experience in working with databases and
+                application Servers (minimum 2 years) SQL JBoss Application Server Practical experience with operating
+                systems (at least 2 years) Linux Windows Advantageous: Coaching in the technologies used The provided
+                software is used exclusively on Linux platforms.
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>C48968D758F7AFDC20AB7709DE83DF1F</AccountID>
+            <AdvertiserName>Robert Half</AdvertiserName>
+            <AdvertiserReference>JS9158618/7657099</AdvertiserReference>
+            <ContactName>Robert Half</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-14T18:23:06Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Fur unseren Kunden aus der E-commerce Branche, suchen wir zum nachstmoglichen Zeitpunkt
+                eine Unterstutzung als Java Entwickler (w/m) in Vollzeit. Wir bieten Ihnen neben einem unbefristeten
+                Arbeitsvertrag, eine ubertarifliche Vergutung und umfassende Online-Weiterbildungsmoglichkeiten.&lt;BR&gt;&lt;BR&gt;Ihre
+                Aufgaben&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Entwicklung von Java-basierter Web Architektur &lt;LI&gt;Implementierung
+                und Anpassung neuer Anwendungen in die bestehende Systemlandschaft &lt;LI&gt;Softwaredesign und
+                Entwicklung von fachlichen Anforderung &lt;LI&gt;Eigenverantwortliche Umsetzung von abwechslungsreichen
+                Aufgaben und Projekten&lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;Ihr Profil&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Abgeschlossenes
+                Studium der Informatik oder vergleichbare Qualifikation &lt;LI&gt;Bereits Berufserfahrung in der
+                Softwareentwicklung mit Java &lt;LI&gt;Sehr gute Kenntnisse in HTML, CSS, JavaScript und jQuery &lt;LI&gt;Kenntnisse
+                in Spring und Hibernate &lt;LI&gt;Selbststandige und ergebnisorientierte Arbeitsweise &lt;LI&gt;Kommunikations-
+                sowie Teamfahigkeit wird vorausgesetzt &lt;LI&gt;Sehr gute Deutsch- und Englischkenntnisse von Vorteil&lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;Ihre
+                Vorteile mit Robert Half Technology&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Unbefristeter Arbeitsvertrag bei
+                Robert Half: mit allen Vorteilen einer Festanstellung und ubertariflicher Bezahlung &lt;LI&gt;Attraktive
+                Sozialleistungen: vermogenswirksame Leistungen, Verpflegungsmehraufwand und Fahrtgeld &lt;LI&gt;Schnelle
+                Vermittlung: ideal auch fur den Wiedereinstieg und zur Minimierung von Lucken im Lebenslauf &lt;LI&gt;Personliche
+                Beratung: intensive Betreuung und regelmassiger offener Austausch mit Ihrem zustandigen Personalberater
+                auch wahrend der Einsatze beim Kundenunternehmen &lt;LI&gt;Abwechslungsreiche Jobs: Chance, bei mehreren
+                interessanten Unternehmen Erfahrungen zu sammeln und in verschiedene Branchen reinzuschnuppern &lt;LI&gt;Zeitarbeit
+                als Karrieresprungbrett: Moglichkeit nach Ihrem Einsatz vom Kundenunternehmen ubernommen zu werden &lt;LI&gt;Networking-Events:
+                regelmassiger Erfahrungsaustausch mit anderen Zeitarbeitskraften&lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>0D63D07821D5D9AAA14FFA040740379B</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T18:23:19Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJHOh?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJHOh</PermanentID>
+            <Position>Java Entwickler (w/m)</Position>
+            <RecruiterName>Robert Half</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Fur unseren Kunden aus der E-commerce Branche, suchen wir zum nachstmoglichen Zeitpunkt
+                eine Unterstutzung als Java Entwickler (w/m) in Vollzeit. Wir bieten Ihnen neben einem unbefristeten
+                Arbeitsvertrag, eine ubertarifliche Vergutung und umfassende Online-Weiterbildungsmoglichkeiten. Ihre
+                Aufgaben Entwicklung von Java-basierter Web Architektur Implementierung und Anpassung neuer Anwendungen
+                in die bestehende Systemlandschaft Softwaredesign und Entwicklung von fachlichen Anforderung
+                Eigenverantwortliche Umsetzung von abwechslungsreichen Aufgaben und Projekten Ihr Profil Abgeschlossenes
+                Studium der Informatik oder vergleichbare Qualifikation Bereits Berufserfahrung in der
+                Softwareentwicklung mit Java Sehr gute Kenntnisse in HTML, CSS, JavaScript und jQuery Kenntnisse in
+                Spring und Hibernate Selbststandige und ergebnisorientierte Arbeitsweise Kommunikations- sowie
+                Teamfahigkeit wird vorausgesetzt Sehr gute Deutsch- und Englischkenntnisse von Vorteil Ihre Vorteile mit
+                Robert Half Technology Unbefristeter Arbeitsvertrag bei Robert Half: mit allen Vorteilen einer
+                Festanstellung und ubertariflicher Bezahlung Attraktive Sozialleistungen: vermogenswirksame Leistungen,
+                Verpflegungsmehraufwand und Fahrtgeld Schnelle Vermittlung: ideal auch fur den Wiedereinstieg und zur
+                Minimierung von Lucken im Lebenslauf Personliche Beratung: intensive Betreuung und regelmassiger offener
+                Austausch mit Ihrem zustandigen Personalberater auch wahrend der Einsatze beim Kundenunternehmen
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>119E0DCFC02D13DBC4E4642CD5BF3673</AccountID>
+            <AdvertiserName>Next Ventures Ltd</AdvertiserName>
+            <AdvertiserReference>JS</AdvertiserReference>
+            <ContactName>Janos Liptak</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-10T08:04:51Z</DatePosted>
+            <Duration>6 months</Duration>
+            <Email>Janos.Liptak.BE647.CC94D@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;STRONG&gt;Must have I:&lt;/STRONG&gt; &lt;BR&gt;&lt;U&gt;Architekturen
+                -Know-How: &lt;/U&gt;&lt;BR&gt;&lt;U&gt;J2EE&amp;nbsp; &lt;/U&gt;(dies umfasst JSP, Servlets, Portlets,
+                JSF, Web Services (z. B. JAX-WS, JAX-RS), JAXB und JPA) &lt;BR&gt;&amp;nbsp; &lt;BR&gt;&lt;U&gt;Programmiersprachen-Know-How:
+                &lt;/U&gt;&lt;BR&gt;JAVA/JEE mehrj?hrig &lt;BR&gt;&lt;STRONG&gt;HTML5, JavaScript, CSS3, Ajax, XML,
+                Web-Services&lt;/STRONG&gt;, XSL, XSLT. &lt;BR&gt;M?glichst: Portal-Server/Portlet-Entwicklung,&amp;nbsp;Datenbanken,
+                Jira/HP Demand/HP QC, Scrum &lt;BR&gt;&amp;nbsp; &lt;BR&gt;F?r die moderne (und mobile) Webentwicklung
+                sind folgende Themengebiete wichtig: &lt;BR&gt; Erstellen mobiler Webapps &lt;BR&gt;&lt;U&gt;F?r
+                GUI-Spezialist zus?tzlich:&lt;/U&gt; &lt;BR&gt; &amp;nbsp;&lt;STRONG&gt;JavaScript-Frameworks&lt;/STRONG&gt;&amp;nbsp;
+                (JQuery, Knockout, AngularJS, o.?.)&amp;nbsp; &lt;BR&gt; &amp;nbsp;&lt;STRONG&gt;UI-Frameworks&lt;/STRONG&gt;
+                (Bootstrap, Zurb, o.?.) &lt;BR&gt; &amp;nbsp;&lt;STRONG&gt;CSS-Precompiler&lt;/STRONG&gt; (LESS, SASS)
+                &lt;BR&gt; &amp;nbsp;&lt;STRONG&gt;Responsive Web Design&lt;/STRONG&gt; (RWD) &lt;BR&gt; &amp;nbsp;&lt;STRONG&gt;Single
+                Page Applications&lt;/STRONG&gt; (SPA) &lt;BR&gt; &amp;nbsp;Web Performance Optimization (WPO) &lt;BR&gt;
+                &amp;nbsp;JSF &lt;BR&gt;&amp;nbsp; &lt;BR&gt;&lt;STRONG&gt;Must have II:&lt;/STRONG&gt; &lt;BR&gt;&lt;U&gt;Framework
+                - Know-How: &lt;/U&gt;&lt;BR&gt;Hibernate, Spring, Maven, SVN, JSF mehrj?hrig (eigentlich Teil von J2EE
+                - aber sehr wichtig und deshalb OK und extra zu benennen), Regressionstesting-Know-How via JUnit 4 und
+                Selenium. &amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp; &lt;BR&gt;&amp;nbsp; &lt;BR&gt;&amp;nbsp; &lt;BR&gt;&lt;STRONG&gt;Must
+                have III:&lt;/STRONG&gt; &lt;BR&gt;&lt;U&gt;Serverdienste/Middleware-Know-How: &lt;/U&gt;&lt;BR&gt;WebSphere
+                Portal Server&amp;nbsp; &lt;BR&gt;JBOSS&amp;nbsp; AS &lt;BR&gt;&lt;U&gt;W?re optimal:&lt;/U&gt; &lt;BR&gt;-
+                WebTracking (NetMind) &lt;BR&gt;- Build-/Release manager (Hudson/Jenkins, SubVersion,
+                Maven)&lt;/P&gt;</HtmlDescription>
+            <ID>BC9D127278CC7715D387374AE4DC1F7A</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Contract</JobType>
+            <LastModifiedUTC>2014-02-10T08:05:41Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>97288,0,71,0,99,0,5</ID>
+                <Latitude>48.77582</Latitude>
+                <Longitude>9.18249</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Stuttgart</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DIaAA?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DIaAA</PermanentID>
+            <Position>Java Developer German Speaker</Position>
+            <RecruiterName>Next Ventures Ltd</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Must have I: Architekturen -Know-How: J2EE (dies umfasst JSP, Servlets, Portlets, JSF, Web
+                Services (z. B. JAX-WS, JAX-RS), JAXB und JPA) Programmiersprachen-Know-How: JAVA/JEE mehrj?hrig HTML5,
+                JavaScript, CSS3, Ajax, XML, Web-Services , XSL, XSLT. M?glichst: Portal-Server/Portlet-Entwicklung,
+                Datenbanken, Jira/HP Demand/HP QC, Scrum F?r die moderne (und mobile) Webentwicklung sind folgende
+                Themengebiete wichtig: Erstellen mobiler Webapps F?r GUI-Spezialist zus?tzlich: JavaScript-Frameworks
+                (JQuery, Knockout, AngularJS, o.?.) UI-Frameworks (Bootstrap, Zurb, o.?.) CSS-Precompiler (LESS, SASS)
+                Responsive Web Design (RWD) Single Page Applications (SPA) Web Performance Optimization (WPO) JSF Must
+                have II: Framework - Know-How: Hibernate, Spring, Maven, SVN, JSF mehrj?hrig (eigentlich Teil von J2EE -
+                aber sehr wichtig und deshalb OK und extra zu benennen), Regressionstesting-Know-How via JUnit 4 und
+                Selenium. Must have III: Serverdienste/Middleware-Know-How: WebSphere Portal Server JBOSS AS W?re
+                optimal: - WebTracking (NetMind) - Build-/Release manager (Hudson/Jenkins, SubVersion, Maven)
+            </ShortDescription>
+            <Start>Middle of February</Start>
+            <Telephone>07818285206</Telephone>
+        </Job>
+        <Job>
+            <AccountID>296E1F48A543ECF1A9D6D4D209094203</AccountID>
+            <AdvertiserName>1&amp;1 Internet AG</AdvertiserName>
+            <AdvertiserReference>JS9158667/7656954</AdvertiserReference>
+            <ContactName>1&amp;1 Internet AG</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-14T17:45:38Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Die 1&amp;amp;1 Internet AG mit den Marken 1&amp;amp;1, GMX und WEB.DE ist die grosste
+                Tochtergesellschaft der United Internet AG, einem borsennotierten Unternehmen mit rund 6.800
+                Mitarbeitern in 10 Landern, ca. 44 Mio. Kunden-Accounts und rund 2,4 Mrd. Euro Jahresumsatz.Fur
+                Karlsruhe suchen wir Java Softwareentwickler (m/w) WEB.DE, GMX, 1&amp;amp;1 und mail.com Kennziffer:
+                KA-MH130301 DAS SIND IHRE AUFGABEN:Seien Sie Teil eines kreativen und agilen Produktentwicklungsteams,
+                das Millionen Nutzern weltweit mit einem innovativen Webmail Client versorgt. &lt;UL&gt; &lt;LI&gt;Sie
+                erweitern mit den neuesten Erkenntnissen aus Technologie und Verfahren die Grenzen der Produktinnovation
+                in enger Zusammenarbeit mit Produktmanagern, Designern und anderen Engineering Teams. &lt;LI&gt;Sie
+                losen alle komplexen, herausfordernden und interessanten Probleme, auf die Sie stossen. &lt;LI&gt;Sie
+                erstellen robuste, volumenstarke Produktivanwendungen, entwickeln zugig Prototypen sowie elegante
+                Losungen fur komplexe Probleme. &lt;LI&gt;Sie arbeiten in einem hochgradig interaktiven und motivierten
+                Team, welches stets danach strebt, voneinander zu lernen - konstruktives Feedback wird gegeben und
+                entgegengenommen und proaktiv an der Verbesserung unserer Produkte gearbeitet. &lt;LI&gt;Sie entwickeln
+                neue Features und realisieren diese uber innovation- und datengestutzte Iterationen fur uber 50
+                Millionen aktive Nutzer.&lt;/LI&gt;&lt;/UL&gt;DAS WuNSCHEN WIR UNS:Unser Technologiestack basiert
+                hauptsachlich auf Java (Wicket, Spring, RESTEasy, ActiveMQ, Tomcat, Maven) serverseitig und Javascript
+                (jQuery), CSS und HTML clientseitig. &lt;UL&gt; &lt;LI&gt;Mindestens einen Bachelor Abschluss in
+                Informatik (oder entsprechende Arbeitserfahrung) und sehr gute kommunikative Fahigkeiten. Die
+                Verstandigung mit anderen Abteilungen zwecks Informationsaustausch und Finden von Losungen ist ein
+                wichtiger Teil Ihrer taglichen Arbeit. &lt;LI&gt;Erfahrung mit bewahrten Methoden der
+                Softwareentwicklung (z.B. Komponententest, Codeuberprufungen, Projektdokumentation, TDD) sowie ein
+                disziplinierter Ansatz zu Prufung, Qualitatssicherung und Dokumentation. &lt;LI&gt;Fachwissen im Bereich
+                Java (&amp;gt;1.5) und dem Wicket Web-System. &lt;LI&gt;Erfahrung mit Netzinfrastruktur, dezentralen
+                Systemen und messageorientierter Architektur. &lt;LI&gt;Profundes Hintergrundwissen in den Bereichen
+                Algorithmen, Datenstrukturen und Programmierung. &lt;LI&gt;Bonus: Entwicklungserfahrung auf JVM
+                einschliesslich Asynchronous I/O, Parallelitat und dem Java-Speichermodell. Kenntnisse bezuglich
+                Debugging-Tools wie JStack, JMap, JHat, gdb. Erfahrung mit
+                OpenSource.&lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>8A1EC034A6BB0C914221869BCAA68C03</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T17:45:43Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>110390,0,71,0,99,0,5</ID>
+                <Latitude>49.00388</Latitude>
+                <Longitude>8.35639</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Karlsruhe, Baden-W?rttemberg</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJHIM?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJHIM</PermanentID>
+            <Position>Java Softwareentwickler (m/w) - WEB.DE, GMX, 1&amp;1 und mail.com</Position>
+            <RecruiterName>1&amp;1 Internet AG</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Die 1&amp;1 Internet AG mit den Marken 1&amp;1, GMX und WEB.DE ist die grosste
+                Tochtergesellschaft der United Internet AG, einem borsennotierten Unternehmen mit rund 6.800
+                Mitarbeitern in 10 Landern, ca. 44 Mio. Kunden-Accounts und rund 2,4 Mrd. Euro Jahresumsatz.Fur
+                Karlsruhe suchen wir Java Softwareentwickler (m/w) WEB.DE, GMX, 1&amp;1 und mail.com Kennziffer:
+                KA-MH130301 DAS SIND IHRE AUFGABEN: Seien Sie Teil eines kreativen und agilen Produktentwicklungsteams,
+                das Millionen Nutzern weltweit mit einem innovativen Webmail Client versorgt. Sie erweitern mit den
+                neuesten Erkenntnissen aus Technologie und Verfahren die Grenzen der Produktinnovation in enger
+                Zusammenarbeit mit Produktmanagern, Designern und anderen Engineering Teams. Sie losen alle komplexen,
+                herausfordernden und interessanten Probleme, auf die Sie stossen. Sie erstellen robuste, volumenstarke
+                Produktivanwendungen, entwickeln zugig Prototypen sowie elegante Losungen fur komplexe Probleme. Sie
+                arbeiten in einem hochgradig interaktiven und motivierten Team, welches stets danach strebt, voneinander
+                zu lernen - konstruktives Feedback wird gegeben und entgegengenommen und proaktiv an der Verbesserung
+                unserer Produkte gearbeitet. Sie entwickeln neue Features und realisieren diese uber innovation- und
+                datengestutzte Iterationen fur uber 50 Millionen aktive Nutzer. DAS WuNSCHEN WIR UNS: Unser
+                Technologiestack basiert hauptsachlich auf Java (Wicket, Spring, RESTEasy, ActiveMQ, Tomcat, Maven)
+                serverseitig und Javascript (jQuery),
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>49DF7590A9E5523588FF320EADC4546C</AccountID>
+            <AdvertiserName>Engage PSG</AdvertiserName>
+            <AdvertiserReference>JS-JD92921</AdvertiserReference>
+            <ContactName>Josh Dodds</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-10T17:41:47Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;My client is a reputable Hedge Fund looking to build out their operation in
+                Frankfurt. They are currently building out their Trading Architecture team and require a series of Java
+                Developers (Junior-Senior level) to join their existing team. The role itself will involve a lot of
+                ongoing project work, as well as a number of upcoming Greenfield projects. The role sits very closely
+                with the business within a small dynamic team; it will involve a lot of exposure to different areas you
+                might not be able to work with in a larger institution and will also involve a lot of communication
+                through to senior layers within the organization.&lt;/P&gt; &lt;P&gt;The ideal candidate will have very
+                strong Java skills and come from a background in very low-level technologies (machine learning,
+                artificial intelligence, research etc). Ideally the candidate will have a strong educational background,
+                having graduated from a reputable university in a Computer Science-aligned degree. &lt;BR&gt;&lt;BR&gt;The
+                ideal candidate should have the following: -&lt;/P&gt; &lt;UL&gt; &lt;LI&gt;Exceptional Java skills with
+                good knowledge of object-orientated analysis and design patterns. &lt;LI&gt;Solid refactoring &amp;amp;
+                debugging skills and strong analytical &amp;amp; problem solving skills &lt;LI&gt;An MSc or PhD in
+                Computer science is preferred, having covered topics such as algorithms, data structures, large data
+                sets, machine learning etc &lt;LI&gt;Experience/knowledge in Scheme/Haskell or Python/Groovy/Ruby &lt;LI&gt;Oracle/MySQL
+                &lt;LI&gt;Spring/Hibernate &lt;LI&gt;A strong passion for technologies and the desire to work in a
+                tight, dynamic team&lt;/LI&gt;&lt;/UL&gt; &lt;P&gt;This is a rare and exciting opportunity to work
+                within a small dynamic team within an exciting Hedge Fund. To apply please send an up to date CV.
+                Applicants throughout the EU will be considered.&lt;/P&gt;</HtmlDescription>
+            <ID>FADB5499F44A50CCDB0517F0F7A5EB01</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-12T14:25:59Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>32523,0,2208,0,99,0,5</ID>
+                <Latitude>50.1</Latitude>
+                <Longitude>8.66666</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Frankfurt am Main</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DIyuE?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DIyuE</PermanentID>
+            <Position>Java Developer - Hedge Fund (Algo Trading)</Position>
+            <RecruiterName>Engage PSG</RecruiterName>
+            <Salary>EUR 60k - 100k per annum + Quarterly Bonus</Salary>
+            <ShortDescription>My client is a reputable Hedge Fund looking to build out their operation in Frankfurt.
+                They are currently building out their Trading Architecture team and require a series of Java Developers
+                (Junior-Senior level) to join their existing team. The role itself will involve a lot of ongoing project
+                work, as well as a number of upcoming Greenfield projects. The role sits very closely with the business
+                within a small dynamic team; it will involve a lot of exposure to different areas you might not be able
+                to work with in a larger institution and will also involve a lot of communication through to senior
+                layers within the organization. The ideal candidate will have very strong Java skills and come from a
+                background in very low-level technologies (machine learning, artificial intelligence, research etc).
+                Ideally the candidate will have a strong educational background, having graduated from a reputable
+                university in a Computer Science-aligned degree. The ideal candidate should have the following: -
+                Exceptional Java skills with good knowledge of object-orientated analysis and design patterns. Solid
+                refactoring &amp; debugging skills and strong analytical &amp; problem solving skills An MSc or PhD in
+                Computer science is preferred, having covered topics such as algorithms, data structures, large data
+                sets, machine learning etc Experience/knowledge in Scheme/Haskell or Python/Groovy/Ruby Oracle/MySQL
+                Spring/Hibernate A strong passion for technologies and the desire to work in a tight, dynamic team
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone>020 7292 3770</Telephone>
+        </Job>
+        <Job>
+            <AccountID>296E1F48A543ECF1A9D6D4D209094203</AccountID>
+            <AdvertiserName>1&amp;1 Internet AG</AdvertiserName>
+            <AdvertiserReference>JS9158669/7656956</AdvertiserReference>
+            <ContactName>1&amp;1 Internet AG</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-14T17:44:55Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Die 1&amp;amp;1 Internet AG mit den Marken 1&amp;amp;1, GMX und WEB.DE ist die grosste
+                Tochtergesellschaft der United Internet AG, einem borsennotierten Unternehmen mit rund 6.800
+                Mitarbeitern in 10 Landern, ca. 44 Mio. Kunden-Accounts und rund 2,4 Mrd. Euro Jahresumsatz.Fur
+                Karlsruhe suchen wir Java Softwareentwickler Webanwendungen &amp;amp; Middleware (m/w) Kennziffer:
+                KA-CH131101 DAS SIND IHRE AUFGABEN:Das Team ist fur die Entwicklung zentraler Dienste und Komponenten
+                fur die Kunden-Frontendsysteme der 1&amp;amp;1 Internet AG verantwortlich. Das Aufgabengebiet erstreckt
+                sich dabei von der Webentwicklung mit Java bis hin zur Entwicklung von Middleware-Architekturen.Es
+                erwarten Sie ein spannendes Aufgabenfeld, ein agiler Bereich und eine Kultur, die Wert legt auf neue
+                Ideen, Eigeninitiative und Kooperationsvermogen. &lt;UL&gt; &lt;LI&gt;Zusammen mit Ihrem Team
+                konzipieren und programmieren Sie zuverlassige Dienste fur unsere Frontend-Systeme wie die
+                Verkaufsplattformen oder das 1&amp;amp;1 Control Panel. Dabei arbeiten Sie eng mit den internen
+                Entwicklungsteams zusammen. &lt;LI&gt;Sie erstellen und erweitern Backendsysteme auf Basis von REST oder
+                EJB. &lt;LI&gt;Nach Anforderungen der Produktbereiche setzen Sie termingerecht Projekte um und finden
+                geeignete Kompromisse zwischen der Zielarchitektur und der pragmatischen Realisierung der Projekte. &lt;LI&gt;Sie
+                stehen als kompetenter Ansprechpartner fur interne Auftraggeber und andere Softwareentwickler zur
+                Verfugung.&lt;/LI&gt;&lt;/UL&gt;DAS WuNSCHEN WIR UNS:Die Basis Ihres Know-hows bildet ein erfolgreich
+                abgeschlossenes Studium der Informatik oder eine vergleichbare Ausbildung sowie darauf aufbauend mehrere
+                Jahren Berufserfahrung. &lt;UL&gt; &lt;LI&gt;Sie haben bereits Webapplikationen auf Basis von
+                Java-Servlets oder einem Framework realisiert und haben keine Beruhrungsangste mit dem HTTP-Protokoll.
+                &lt;LI&gt;Sie besitzen fundierte Kenntnisse im Umgang mit verteilten Systemen und Webservices. &lt;LI&gt;Weiterhin
+                kennen Sie sich mit Middleware-Technologien, wie z. B. EJB, Spring, SOAP und REST aus. &lt;LI&gt;Tools
+                zur Versionskontrolle wie Subversion, Build-Werkzeuge wie Ant und Maven sowie Continuous Integration,
+                Checkstyle und FindBugs gehoren zu Ihren taglich genutzten Werkzeugen. &lt;LI&gt;Um die Qualitat Ihrer
+                Arbeit sicherzustellen, setzen Sie automatisierte Unit- und Integrationstests ein. Optimalerweise haben
+                Sie bereits mit den Test-Frameworks JUnit, FIT und Selenium gearbeitet. &lt;LI&gt;Sie arbeiten sich
+                schnell und selbststandig in neue Themen und Technologien ein, kommunizieren gerne und haben Freude an
+                der Arbeit im Team.&lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>BCBDCBC7990B12E3B56DA84D5178A9FD</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T17:45:31Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>110390,0,71,0,99,0,5</ID>
+                <Latitude>49.00388</Latitude>
+                <Longitude>8.35639</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Karlsruhe, Baden-W?rttemberg</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJHHy?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJHHy</PermanentID>
+            <Position>Java Softwareentwickler Webanwendungen &amp; Middleware (m/w)</Position>
+            <RecruiterName>1&amp;1 Internet AG</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Die 1&amp;1 Internet AG mit den Marken 1&amp;1, GMX und WEB.DE ist die grosste
+                Tochtergesellschaft der United Internet AG, einem borsennotierten Unternehmen mit rund 6.800
+                Mitarbeitern in 10 Landern, ca. 44 Mio. Kunden-Accounts und rund 2,4 Mrd. Euro Jahresumsatz.Fur
+                Karlsruhe suchen wir Java Softwareentwickler Webanwendungen &amp; Middleware (m/w) Kennziffer:
+                KA-CH131101 DAS SIND IHRE AUFGABEN: Das Team ist fur die Entwicklung zentraler Dienste und Komponenten
+                fur die Kunden-Frontendsysteme der 1&amp;1 Internet AG verantwortlich. Das Aufgabengebiet erstreckt sich
+                dabei von der Webentwicklung mit Java bis hin zur Entwicklung von Middleware-Architekturen.Es erwarten
+                Sie ein spannendes Aufgabenfeld, ein agiler Bereich und eine Kultur, die Wert legt auf neue Ideen,
+                Eigeninitiative und Kooperationsvermogen. Zusammen mit Ihrem Team konzipieren und programmieren Sie
+                zuverlassige Dienste fur unsere Frontend-Systeme wie die Verkaufsplattformen oder das 1&amp;1 Control
+                Panel. Dabei arbeiten Sie eng mit den internen Entwicklungsteams zusammen. Sie erstellen und erweitern
+                Backendsysteme auf Basis von REST oder EJB. Nach Anforderungen der Produktbereiche setzen Sie
+                termingerecht Projekte um und finden geeignete Kompromisse zwischen der Zielarchitektur und der
+                pragmatischen Realisierung der Projekte. Sie stehen als kompetenter Ansprechpartner fur interne
+                Auftraggeber und andere Softwareentwickler zur Verfugung. DAS WuNSCHEN WIR UNS: Die Basis Ihres
+                Know-hows bildet ein erfolgreich abgeschlossenes Studium der
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>5EBFD249BC9229FB962FEF2C32BAE881</AccountID>
+            <AdvertiserName>A:gon Solutions GmbH</AdvertiserName>
+            <AdvertiserReference>JS9156872/7613809</AdvertiserReference>
+            <ContactName>A:gon Solutions GmbH</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-12T17:17:53Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Ihre ChanceSie suchen einen Arbeitgeber, bei dem Sie als Mitarbeiter von einem
+                umfangreichen Qualifizierungsangebot profitieren konnen?Die Agon Solutions fordert Ihre
+                Weiterentwicklung mit einem Mix an Massnahmen und Instrumenten - jedes Jahr. Mit jedem Mitarbeiter
+                werden die Entwicklungsziele individuell vereinbart. Es ist Bestandteil unserer Unternehmensstrategie,
+                die Weiterentwicklung der Mitarbeiter auf eine breite Basis zu stellen, sowohl in der personlichen als
+                auch in der fachlichen und methodischen Ausbildung: wahrend Sie die Richtung vorgeben, stellen wir die
+                Weichen. Das gilt auch fur die Entwicklung unserer Wissensorganisation. Wir geben Ihnen einen Rahmen in
+                dem Sie Ihr Talent und Know-how einbringen konnen, von der fachlichen Verantwortung fur Ihr" Thema in
+                unserem Agon Wiki oder uber interne Workshops in unserem Agon Camp bis hin zum Verfassen von
+                Fachartikeln.Die Agon Solutions ist ein junges, innovatives IT Dienstleistungsunternehmen mit rund 100
+                Mitarbeitern und Firmensitz in Eschborn. In unseren Projekten konzipieren und entwickeln wir
+                Softwaresysteme (IT-Solutions) oder beraten unsere Kunden in den Bereichen Softwarearchitektur,
+                Anforderungs-, Qualitats- und Security Management (IT-Consulting). Dabei steht stets der Mensch im
+                Mittelpunkt, sei es als zufriedener Kunde, als loyaler Geschaftspartner oder als motivierter
+                Mitarbeiter. Zur Verstarkung unseres Entwicklerteams in unseren Kundenprojekten im Grossraum Frankfurt
+                suchen wir mehrereJava Entwickler (w/m)Ihre Aufgaben&lt;UL&gt;&lt;LI&gt;Konzeption, Design, Entwicklung,
+                Test und Einfuhrung komplexer Softwarelosungen auf Basis von Java/JEE&lt;/LI&gt;&lt;LI&gt;Optimierung
+                und Weiterentwicklung bestehender Anwendungssysteme im Internet- und Client/Server-Umfeld&lt;/LI&gt;&lt;/UL&gt;Ihr
+                Beitrag&lt;UL&gt;&lt;LI&gt;Spass an der Entwicklung von Software und Leidenschaft fur das Schreiben von
+                qualitativem Source Code&lt;/LI&gt;&lt;LI&gt;Sehr gute Kenntnisse der Programmiersprache Java sowie der
+                im Web-Umfeld benotigten weiteren Technologien, wie JavaScript, CSS, HTML5&lt;/LI&gt;&lt;LI&gt;Gutes
+                Know-how in XML, XSLT oder FOP und/oder JSON&lt;/LI&gt;&lt;LI&gt;Fundierte Kenntnisse in OOA/OOD, UML
+                und JEE Patterns&lt;/LI&gt;&lt;LI&gt;Expertise in der Anwendung von Open Source Frameworks wie
+                beispielsweise EJB 2.x JSF, Hibernate, Spring oder Vaadin/GWT&lt;/LI&gt;&lt;LI&gt;Breite Erfahrung mit
+                Entwicklungstools wie Eclipse, Websphere Application Developer, Hudson, Ant, Maven, Junit, JBoss oder
+                Tomcat&lt;/LI&gt;&lt;LI&gt;Gutes Know-how in der Anbindung von Datenbanken an Java-Anwendungen (JPA)&lt;/LI&gt;&lt;LI&gt;Optional
+                Erfahrung in der Nutzung von Oracle (Bea) Weblogic 11g&lt;/LI&gt;&lt;LI&gt;Sehr gute mundliche und
+                schriftliche Deutschkenntnisse sowie gute Englischkenntnisse&lt;/LI&gt;&lt;LI&gt;Sicherer Umgang mit MS
+                Word, MS Excel und MS PowerPoint&lt;/LI&gt;&lt;LI&gt;Hohes Qualitatsbewusstsein, gute Kommunikation und
+                die Fahigkeit, sich schnell in neue Themen einzuarbeiten. &lt;/LI&gt;&lt;/UL&gt;Interesse?Wenn wir Ihr
+                Interesse wecken konnten und Sie uns gerne kennen lernen mochten, freuen wir uns sehr auf Ihre
+                Bewerbung. Neben einem attraktiven Vergutungsmodell bieten wir Ihnen abwechslungsreiche Projekte in
+                starken Teams und kollegialer Atmosphare.Individuelle Losungen brauchen individuelle Personlichkeiten -
+                Wir wollen Ihre kennenlernen!A:gon Solutions GmbH&lt;BR/&gt;Frankfurter Str. 71-75&lt;BR/&gt;65760
+                EschbornTelefon: (0) -0&lt;BR/&gt;E-Mail:
+            </HtmlDescription>
+            <ID>3CDD792BFB5B034B3D3041576388EE7E</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T16:45:27Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>32523,0,2208,0,99,0,5</ID>
+                <Latitude>50.1</Latitude>
+                <Longitude>8.66666</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Frankfurt am Main, Hessen</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI9VV?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI9VV</PermanentID>
+            <Position>Java Entwickler (w/m)</Position>
+            <RecruiterName>A:gon Solutions GmbH</RecruiterName>
+            <Salary>vbper annum EUR</Salary>
+            <ShortDescription>Ihre ChanceSie suchen einen Arbeitgeber, bei dem Sie als Mitarbeiter von einem
+                umfangreichen Qualifizierungsangebot profitieren konnen?Die Agon Solutions fordert Ihre
+                Weiterentwicklung mit einem Mix an Massnahmen und Instrumenten - jedes Jahr. Mit jedem Mitarbeiter
+                werden die Entwicklungsziele individuell vereinbart. Es ist Bestandteil unserer Unternehmensstrategie,
+                die Weiterentwicklung der Mitarbeiter auf eine breite Basis zu stellen, sowohl in der personlichen als
+                auch in der fachlichen und methodischen Ausbildung: wahrend Sie die Richtung vorgeben, stellen wir die
+                Weichen. Das gilt auch fur die Entwicklung unserer Wissensorganisation. Wir geben Ihnen einen Rahmen in
+                dem Sie Ihr Talent und Know-how einbringen konnen, von der fachlichen Verantwortung fur Ihr" Thema in
+                unserem Agon Wiki oder uber interne Workshops in unserem Agon Camp bis hin zum Verfassen von
+                Fachartikeln.Die Agon Solutions ist ein junges, innovatives IT Dienstleistungsunternehmen mit rund 100
+                Mitarbeitern und Firmensitz in Eschborn. In unseren Projekten konzipieren und entwickeln wir
+                Softwaresysteme (IT-Solutions) oder beraten unsere Kunden in den Bereichen Softwarearchitektur,
+                Anforderungs-, Qualitats- und Security Management (IT-Consulting). Dabei steht stets der Mensch im
+                Mittelpunkt, sei es als zufriedener Kunde, als loyaler Geschaftspartner oder als motivierter
+                Mitarbeiter. Zur Verstarkung unseres Entwicklerteams in unseren Kundenprojekten im Grossraum Frankfurt
+                suchen wir mehrereJava Entwickler
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>2EB23B1C54E037CB62668474EB217C1D</AccountID>
+            <AdvertiserName>Templeton and Partners</AdvertiserName>
+            <AdvertiserReference>JSSJC153</AdvertiserReference>
+            <ContactName>Sam Cheal</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-11T12:18:16Z</DatePosted>
+            <Duration>Permanent</Duration>
+            <Email>Sam.Cheal.9FE2D.08CFC@mail.jobserve.com</Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>&lt;P&gt;&lt;STRONG&gt;Senior Java Software Developer - FLUENT GERMAN SPEAKING&lt;/STRONG&gt;&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Location: &lt;/STRONG&gt;Germany&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Start Date:
+                &lt;/STRONG&gt;ASAP&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Job Type: &lt;/STRONG&gt;Permanent&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Languages:&lt;/STRONG&gt;
+                Fluent German Speaking&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Annual Salary: &lt;/STRONG&gt;euro;60,000-euro;70,000&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Hours per Week:&lt;/STRONG&gt; 40&lt;/P&gt; &lt;P&gt;My client is looking to
+                recruit a fluent German speaking Java Software Developer to be based in their office in Germany. The
+                Java Developer will work with the leading standard software such as the Hybris platform and well known
+                frameworks such as Spring, Hibernate and ZK to develop highly professional Java platforms. The Java
+                Developer will be responsible for the implementation and follow-up of projects for the medium and large
+                sized companies my client work with the main aim of the projects being solutions in the field of Master
+                Data Management and Product Information Management in the print, online and offline media sectors.&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;Your tasks:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt; Coordination of technical
+                processes&lt;/P&gt; &lt;P&gt; Analysis of processes and interfaces to related&amp;nbsp;applications&lt;/P&gt;
+                &lt;P&gt; Establishment of database structures&lt;/P&gt; &lt;P&gt; Analysis and implementation of
+                business logic&lt;/P&gt; &lt;P&gt; GUI development with ZK framework&lt;/P&gt; &lt;P&gt; Processing of
+                deployment&lt;/P&gt; &lt;P&gt;&lt;STRONG&gt;Your Profile:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt; Ambition to
+                further development in the direction of architect/team leader&lt;/P&gt; &lt;P&gt; Completed training in
+                computer science or&amp;nbsp;equivalent professional experience&lt;/P&gt; &lt;P&gt; Specific experience
+                with Java applications and web frameworks&amp;nbsp;or multi-tier architecture&lt;/P&gt; &lt;P&gt;
+                Experience with Ajax and HTML&lt;/P&gt; &lt;P&gt; Knowledge in the field EPR/Product Data, Oracle,&amp;nbsp;MSSQL,
+                DTP, Linux, Shell Scripting and C is advantageous&lt;/P&gt; &lt;P&gt; Structured thinking, quick wit and&amp;nbsp;commitment&lt;/P&gt;
+                &lt;P&gt;&lt;STRONG&gt;My client offer:&lt;/STRONG&gt;&lt;/P&gt; &lt;P&gt; In-house training of the
+                highest quality&lt;/P&gt; &lt;P&gt; Varied, ability to work independently in a&amp;nbsp;strong and
+                cooperative team&lt;/P&gt; &lt;P&gt; Excellent working atmosphere&lt;/P&gt; &lt;P&gt; Professional
+                technical environment with internal and external&amp;nbsp;support&lt;/P&gt; &lt;P&gt; Very good
+                development opportunities&lt;/P&gt;</HtmlDescription>
+            <ID>B673F58A2504A978917F1EA34D9CBD2A</ID>
+            <Industries>
+                <ID>25</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-13T10:16:02Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,0,0,99,0,5</ID>
+                <Latitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Longitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Germany</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DI3a6?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DI3a6</PermanentID>
+            <Position>Senior Java Software Developer - FLUENT GERMAN SPEAKING</Position>
+            <RecruiterName>Templeton and Partners</RecruiterName>
+            <Salary>Euros 60k - 70k per year</Salary>
+            <ShortDescription>Senior Java Software Developer - FLUENT GERMAN SPEAKING Location: Germany Start Date: ASAP
+                Job Type: Permanent Languages: Fluent German Speaking Annual Salary: euro;60,000-euro;70,000 Hours per
+                Week: 40 My client is looking to recruit a fluent German speaking Java Software Developer to be based in
+                their office in Germany. The Java Developer will work with the leading standard software such as the
+                Hybris platform and well known frameworks such as Spring, Hibernate and ZK to develop highly
+                professional Java platforms. The Java Developer will be responsible for the implementation and follow-up
+                of projects for the medium and large sized companies my client work with the main aim of the projects
+                being solutions in the field of Master Data Management and Product Information Management in the print,
+                online and offline media sectors. Your tasks: Coordination of technical processes Analysis of processes
+                and interfaces to related applications Establishment of database structures Analysis and implementation
+                of business logic GUI development with ZK framework Processing of deployment Your Profile: Ambition to
+                further development in the direction of architect/team leader Completed training in computer science or
+                equivalent professional experience Specific experience with Java applications and web frameworks or
+                multi-tier architecture Experience with Ajax and HTML Knowledge in the field EPR/Product Data, Oracle,
+                MSSQL, DTP, Linux, Shell Scripting and C is advantageous Structured thinking,
+            </ShortDescription>
+            <Start>ASAP</Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>C48968D758F7AFDC20AB7709DE83DF1F</AccountID>
+            <AdvertiserName>Robert Half</AdvertiserName>
+            <AdvertiserReference>JS9158636/7657111</AdvertiserReference>
+            <ContactName>Robert Half</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-14T18:23:32Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Fur unseren renommierten Kunden aus dem Bereich der Nachhaltigkeitsberatung suchen wir
+                einen Senior Java Software Engineer (w/m) zur Festanstellung fur den Standort Leinfelden-Echterdingen.
+                Es erwartet sie hier eine internationale und freundliche Umgebung sowie zahlreiche
+                Weiterbildungsmoglichkeiten.&lt;BR&gt;Ihre Aufgaben&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Entwicklung von
+                IT-Anwendungen auf Basis von Java-Technologien &lt;LI&gt;Aufbau einer modularen Anwendungsplattform fur
+                Produkt Nachhaltigkeit &lt;LI&gt;Entwurf und Dokumentation der Softwarearchitektur und des Designs &lt;LI&gt;Analysieren
+                der Anforderungen und Erstellen technischer Konzepte (OO-Modelle, Ablaufe, Architektur) in
+                Zusammenarbeit mit anderen Kollegen des Fachbereiches &lt;LI&gt;Beurteilung von Aufwand und Machbarkeit
+                der geplanten Entwicklungen &lt;LI&gt;Begleiten der Produktentwicklung von der Analyse bis zum Rollout
+                &lt;LI&gt;Testgetriebene Software-Entwicklung (TDD, BDD) &lt;LI&gt;Arbeiten in agilen
+                Entwicklungsprozessen (Scrum) &lt;LI&gt;Technische Systemdokumentation&lt;/LI&gt;&lt;/UL&gt;Ihr Profil&lt;BR&gt;
+                &lt;UL&gt; &lt;LI&gt;Abgeschlossenes Studium (Informatik, Wirtschaftsinformatiker, etc.), oder
+                vergleichbare Qualifikation &lt;LI&gt;Sehr gute Kenntnisse der wichtigsten Technologien und Frameworks
+                aus dem Java-Bereich (Spring, JPA, Webservices, JUnit, Maven etc.) &lt;LI&gt;Kenntnisse in modernen
+                Webtechnologien und Frameworks (REST, JSON, xHTML, CSS, JavaScript, ExtJS, Angular.js) &lt;LI&gt;Kenntnisse
+                in XML, SQL und im Umgang mit Web-Servern &lt;LI&gt;Erfahrungen im Bereich Cloud Computing &lt;LI&gt;Erfahrung
+                in der Testautomatisierung mit Unit Tests, idealerweise Test Driven Development, BDD, UI-Testing &lt;LI&gt;Grundlegende
+                Linux/Unix Kenntnisse (Shell Scripting, Administration) &lt;LI&gt;Begeisterung fur neue Technologien und
+                Herausforderungen &lt;LI&gt;Analytische und kommunikative Fahigkeiten &lt;LI&gt;Hohes
+                Verantwortungsbewusstsein, Teamfahigkeit und Kundenorientierung &lt;LI&gt;Sehr gute Deutsch- und
+                Englischkenntnisse&lt;/LI&gt;&lt;/UL&gt;Ihre Vorteile mit Robert Half Technology&lt;BR&gt; &lt;UL&gt;
+                &lt;LI&gt;Kosten- und Zeitersparnis: Sie senden uns einmalig Ihre Bewerbungsunterlagen zu und
+                vervielfachen mit unserer Hilfe Ihre Jobchancen. &lt;LI&gt;Passgenauigkeit: Unsere erfahrenen
+                Personalberater unterbreiten Ihnen auf Sie personlich zugeschnittene Jobvorschlage. &lt;LI&gt;Schnelligkeit:
+                Wir verkurzen Ihren Bewerbungsprozess, indem wir Sie direkt den zustandigen Personalentscheidern
+                vorstellen. &lt;LI&gt;Coaching: Vor und nach den Vorstellungsgesprachen geben unsere Personalberater
+                Ihnen wertvolle Tipps und Feedback. &lt;LI&gt;Weiterbildung: Wir unterstutzen Sie bei Ihrer
+                Weiterentwicklung, z.B. durch unser E-learning-Angebot mit uber 8.000 kostenlosen Online-Fachkursen
+                (inkl. Zertifikat).&lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>024BBA5EAE8EA5AC28CAE3CCAFFBF57B</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T18:23:32Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>121486,0,71,0,99,0,5</ID>
+                <Latitude>48.7</Latitude>
+                <Longitude>9.15</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Leinfelden-Echterdingen, Baden-W?rttemberg</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJHOx?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJHOx</PermanentID>
+            <Position>Senior Java Software Engineer (w/m) in Leinfelden-Echterdingen</Position>
+            <RecruiterName>Robert Half</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Fur unseren renommierten Kunden aus dem Bereich der Nachhaltigkeitsberatung suchen wir
+                einen Senior Java Software Engineer (w/m) zur Festanstellung fur den Standort Leinfelden-Echterdingen.
+                Es erwartet sie hier eine internationale und freundliche Umgebung sowie zahlreiche
+                Weiterbildungsmoglichkeiten. Ihre Aufgaben Entwicklung von IT-Anwendungen auf Basis von
+                Java-Technologien Aufbau einer modularen Anwendungsplattform fur Produkt Nachhaltigkeit Entwurf und
+                Dokumentation der Softwarearchitektur und des Designs Analysieren der Anforderungen und Erstellen
+                technischer Konzepte (OO-Modelle, Ablaufe, Architektur) in Zusammenarbeit mit anderen Kollegen des
+                Fachbereiches Beurteilung von Aufwand und Machbarkeit der geplanten Entwicklungen Begleiten der
+                Produktentwicklung von der Analyse bis zum Rollout Testgetriebene Software-Entwicklung (TDD, BDD)
+                Arbeiten in agilen Entwicklungsprozessen (Scrum) Technische Systemdokumentation Ihr Profil
+                Abgeschlossenes Studium (Informatik, Wirtschaftsinformatiker, etc.), oder vergleichbare Qualifikation
+                Sehr gute Kenntnisse der wichtigsten Technologien und Frameworks aus dem Java-Bereich (Spring, JPA,
+                Webservices, JUnit, Maven etc.) Kenntnisse in modernen Webtechnologien und Frameworks (REST, JSON,
+                xHTML, CSS, JavaScript, ExtJS, Angular.js) Kenntnisse in XML, SQL und im Umgang mit Web-Servern
+                Erfahrungen im Bereich Cloud Computing Erfahrung in der Testautomatisierung mit Unit Tests, idealerweise
+                Test Driven Development, BDD, UI-Testing Grundlegende
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>C48968D758F7AFDC20AB7709DE83DF1F</AccountID>
+            <AdvertiserName>Robert Half</AdvertiserName>
+            <AdvertiserReference>JS9158569/7656919</AdvertiserReference>
+            <ContactName>Robert Half</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-14T17:45:13Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Fur unseren internationalen Kunden in Berlin suchen wir zum nachstmoglichen Zeitpunkt
+                eine/n Senior Java Entwickler (w/m).&lt;BR&gt;Ihre Aufgaben&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Vergleich von
+                Softwareschnittstellen und Funktionalitaten in Zusammenarbeit mit Produktdesignern &lt;LI&gt;Enge
+                Zusammenarbeit mit Java-Entwicklern aus dem Front- und Backend Bereich &lt;LI&gt;Ausprogrammierung/Integration
+                der gewahlten Losung in bestehende Infrastruktur &lt;LI&gt;Agile Software-Entwicklung zur
+                grosstmoglichen Automatisierung mit allen entsprechenden Methoden&lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;Ihr
+                Profil&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Abgeschlossenes Studium der Informatik oder vergleichbare
+                Fachrichtung &lt;LI&gt;Erfahrung mit JEE, Hibernate, Spring, Scrum &lt;LI&gt;Praktische
+                Kenntnisse/Erfahrungen mit Agile Projektmanagement-Methoden wie Scrum und/oder Kanban &lt;LI&gt;Selbststandige
+                und losungsorientierte Arbeitsweise, routinierter Umgang mit gelegentlich unklaren Anforderungen &lt;LI&gt;Gute
+                Deutsch- und Englischkenntnisse in Wort und Schrift&lt;/LI&gt;&lt;/UL&gt;&lt;BR&gt;Ihre Vorteile mit
+                Robert Half Technology&lt;BR&gt; &lt;UL&gt; &lt;LI&gt;Kosten- und Zeitersparnis: Sie senden uns einmalig
+                Ihre Bewerbungsunterlagen zu und vervielfachen mit unserer Hilfe Ihre Jobchancen. &lt;LI&gt;Passgenauigkeit:
+                Unsere erfahrenen Personalberater unterbreiten Ihnen auf Sie personlich zugeschnittene Jobvorschlage.
+                &lt;LI&gt;Schnelligkeit: Wir verkurzen Ihren Bewerbungsprozess, indem wir Sie direkt den zustandigen
+                Personalentscheidern vorstellen. &lt;LI&gt;Coaching: Vor und nach den Vorstellungsgesprachen geben
+                unsere Personalberater Ihnen wertvolle Tipps und Feedback. &lt;LI&gt;Weiterbildung: Wir unterstutzen Sie
+                bei Ihrer Weiterentwicklung, z.B. durch unser E-learning-Angebot mit uber 8.000 kostenlosen
+                Online-Fachkursen (inkl. Zertifikat).&lt;/LI&gt;&lt;/UL&gt;</HtmlDescription>
+            <ID>0AC621A1AB12885C256851FD55DF4F36</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T17:45:33Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJHIA?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJHIA</PermanentID>
+            <Position>Senior Java Entwickler (w/m)</Position>
+            <RecruiterName>Robert Half</RecruiterName>
+            <Salary xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            <ShortDescription>Fur unseren internationalen Kunden in Berlin suchen wir zum nachstmoglichen Zeitpunkt
+                eine/n Senior Java Entwickler (w/m). Ihre Aufgaben Vergleich von Softwareschnittstellen und
+                Funktionalitaten in Zusammenarbeit mit Produktdesignern Enge Zusammenarbeit mit Java-Entwicklern aus dem
+                Front- und Backend Bereich Ausprogrammierung/Integration der gewahlten Losung in bestehende
+                Infrastruktur Agile Software-Entwicklung zur grosstmoglichen Automatisierung mit allen entsprechenden
+                Methoden Ihr Profil Abgeschlossenes Studium der Informatik oder vergleichbare Fachrichtung Erfahrung mit
+                JEE, Hibernate, Spring, Scrum Praktische Kenntnisse/Erfahrungen mit Agile Projektmanagement-Methoden wie
+                Scrum und/oder Kanban Selbststandige und losungsorientierte Arbeitsweise, routinierter Umgang mit
+                gelegentlich unklaren Anforderungen Gute Deutsch- und Englischkenntnisse in Wort und Schrift Ihre
+                Vorteile mit Robert Half Technology Kosten- und Zeitersparnis: Sie senden uns einmalig Ihre
+                Bewerbungsunterlagen zu und vervielfachen mit unserer Hilfe Ihre Jobchancen. Passgenauigkeit: Unsere
+                erfahrenen Personalberater unterbreiten Ihnen auf Sie personlich zugeschnittene Jobvorschlage.
+                Schnelligkeit: Wir verkurzen Ihren Bewerbungsprozess, indem wir Sie direkt den zustandigen
+                Personalentscheidern vorstellen. Coaching: Vor und nach den Vorstellungsgesprachen geben unsere
+                Personalberater Ihnen wertvolle Tipps und Feedback. Weiterbildung: Wir unterstutzen Sie bei Ihrer
+                Weiterentwicklung, z.B. durch unser
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+        <Job>
+            <AccountID>C48968D758F7AFDC20AB7709DE83DF1F</AccountID>
+            <AdvertiserName>Robert Half</AdvertiserName>
+            <AdvertiserReference>JS9157062/7625222</AdvertiserReference>
+            <ContactName>Robert Half</ContactName>
+            <Country>DEU</Country>
+            <DatePosted>2014-02-13T17:25:38Z</DatePosted>
+            <Duration></Duration>
+            <Email></Email>
+            <Expired>false</Expired>
+            <Fax></Fax>
+            <HtmlDescription>Fur unseren internationalen Kunden in Berlin suchen wir zum nachstmoglichen Zeitpunkt
+                eine/n Senior Java Entwickler (w/m). Ihre Aufgaben &lt;UL&gt; &lt;LI&gt;Vergleich von
+                Softwareschnittstellen und Funktionalitaten in Zusammenarbeit mit Produktdesignern&lt;/LI&gt; &lt;LI&gt;Enge
+                Zusammenarbeit mit Java-Entwicklern aus dem Front- und Backend Bereich&lt;/LI&gt; &lt;LI&gt;Ausprogrammierung/Integration
+                der gewahlten Losung in bestehende Infrastruktur&lt;/LI&gt; &lt;LI&gt;Agile Software-Entwicklung zur
+                grosstmoglichen Automatisierung mit allen entsprechenden Methoden&lt;/LI&gt; &lt;/UL&gt; Ihr Profil &lt;UL&gt;
+                &lt;LI&gt;Abgeschlossenes Studium der Informatik oder vergleichbare Fachrichtung&lt;/LI&gt; &lt;LI&gt;Erfahrung
+                mit JEE, Hibernate, Spring, Scrum&lt;/LI&gt; &lt;LI&gt;Praktische Kenntnisse/Erfahrungen mit Agile
+                Projektmanagement-Methoden wie Scrum und/oder Kanban&lt;/LI&gt; &lt;LI&gt;Selbststandige und
+                losungsorientierte Arbeitsweise, routinierter Umgang mit gelegentlich unklaren Anforderungen&lt;/LI&gt;
+                &lt;LI&gt;Gute Deutsch- und Englischkenntnisse in Wort und Schrift&lt;/LI&gt; &lt;/UL&gt; Ihre Vorteile
+                mit Robert Half Technology &lt;UL&gt; &lt;LI&gt;Kosten- und Zeitersparnis: Sie senden uns einmalig Ihre
+                Bewerbungsunterlagen zu und vervielfachen mit unserer Hilfe Ihre Jobchancen.&lt;/LI&gt; &lt;LI&gt;Passgenauigkeit:
+                Unsere erfahrenen Personalberater unterbreiten Ihnen auf Sie personlich zugeschnittene Jobvorschlage.&lt;/LI&gt;
+                &lt;LI&gt;Schnelligkeit: Wir verkurzen Ihren Bewerbungsprozess, indem wir Sie direkt den zustandigen
+                Personalentscheidern vorstellen.&lt;/LI&gt; &lt;LI&gt;Coaching: Vor und nach den Vorstellungsgesprachen
+                geben unsere Personalberater Ihnen wertvolle Tipps und Feedback.&lt;/LI&gt; &lt;LI&gt;Weiterbildung: Wir
+                unterstutzen Sie bei Ihrer Weiterentwicklung, z.B. durch unser E-Learning-Angebot mit uber 8.000
+                kostenlosen Online-Fachkursen (inkl. Zertifikat).&lt;/LI&gt; &lt;/UL&gt; Die Betreuung und Vermittlung
+                sowie alle unsere weiteren Serviceleistungen sind fur Sie als Bewerber kostenfrei. Sie haben Interesse
+                an diesem Job? Bitte bewerben Sie sich online unter Angabe der Referenznummer 93171. Bei Fragen steht
+                Ihnen Herr Ahmet Kivrak von Robert Half Technology gerne zur Verfugung.
+            </HtmlDescription>
+            <ID>5CDFC6645809E3FD5898F60F86859F80</ID>
+            <Industries>
+                <ID>01</ID>
+            </Industries>
+            <JobType>Permanent</JobType>
+            <LastModifiedUTC>2014-02-14T16:47:43Z</LastModifiedUTC>
+            <Location>
+                <Country>DEU</Country>
+                <ID>0,0,3439,0,99,0,5</ID>
+                <Latitude>52.50833</Latitude>
+                <Longitude>13.40833</Longitude>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text>Berlin</Text>
+            </Location>
+            <Permalink>http://www.jobserve.com/DJDSF?utm_source=LIVE&amp;utm_medium=Live&amp;utm_campaign=Web-API-Unknown</Permalink>
+            <PermanentID>DJDSF</PermanentID>
+            <Position>Senior Java Entwickler (w/m)</Position>
+            <RecruiterName>Robert Half</RecruiterName>
+            <Salary>per annum EUR</Salary>
+            <ShortDescription>Fur unseren internationalen Kunden in Berlin suchen wir zum nachstmoglichen Zeitpunkt
+                eine/n Senior Java Entwickler (w/m). Ihre Aufgaben Vergleich von Softwareschnittstellen und
+                Funktionalitaten in Zusammenarbeit mit Produktdesignern Enge Zusammenarbeit mit Java-Entwicklern aus dem
+                Front- und Backend Bereich Ausprogrammierung/Integration der gewahlten Losung in bestehende
+                Infrastruktur Agile Software-Entwicklung zur grosstmoglichen Automatisierung mit allen entsprechenden
+                Methoden Ihr Profil Abgeschlossenes Studium der Informatik oder vergleichbare Fachrichtung Erfahrung mit
+                JEE, Hibernate, Spring, Scrum Praktische Kenntnisse/Erfahrungen mit Agile Projektmanagement-Methoden wie
+                Scrum und/oder Kanban Selbststandige und losungsorientierte Arbeitsweise, routinierter Umgang mit
+                gelegentlich unklaren Anforderungen Gute Deutsch- und Englischkenntnisse in Wort und Schrift Ihre
+                Vorteile mit Robert Half Technology Kosten- und Zeitersparnis: Sie senden uns einmalig Ihre
+                Bewerbungsunterlagen zu und vervielfachen mit unserer Hilfe Ihre Jobchancen. Passgenauigkeit: Unsere
+                erfahrenen Personalberater unterbreiten Ihnen auf Sie personlich zugeschnittene Jobvorschlage.
+                Schnelligkeit: Wir verkurzen Ihren Bewerbungsprozess, indem wir Sie direkt den zustandigen
+                Personalentscheidern vorstellen. Coaching: Vor und nach den Vorstellungsgesprachen geben unsere
+                Personalberater Ihnen wertvolle Tipps und Feedback. Weiterbildung: Wir unterstutzen Sie bei Ihrer
+                Weiterentwicklung, z.B. durch unser
+            </ShortDescription>
+            <Start></Start>
+            <Telephone></Telephone>
+        </Job>
+    </Jobs>
+    <PageCount>11</PageCount>
+    <PageNo>1</PageNo>
+    <PageSize>20</PageSize>
+    <ProximityStats xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    <RoleSuggestions>
+        <String xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    </RoleSuggestions>
+    <Search>
+        <AccountGroupIDs xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <AccountIDs xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <ExcludeUnknownSalaries>false</ExcludeUnknownSalaries>
+        <Industries xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <JobIDsOnly>false</JobIDsOnly>
+        <JobTypes>
+            <ID>Any</ID>
+        </JobTypes>
+        <Locations>
+            <Location>
+                <Country>DEU</Country>
+                <ID xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Latitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Longitude xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <ParentLocation xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+                <Text xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+            </Location>
+        </Locations>
+        <MaxAge xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <MaxDistance>25.0</MaxDistance>
+        <Page xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <PageSize>20</PageSize>
+        <Role xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <Salaries xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+        <Skills>java spring</Skills>
+        <SortOrder>OVERALL_SCORE_DESC</SortOrder>
+    </Search>
+    <SkillsSuggestions>
+        <String xsi:nil="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"/>
+    </SkillsSuggestions>
+    <Started>2014-02-16T17:33:26.5012504Z</Started>
+    <ThisPageSize>20</ThisPageSize>
+</JobSearchResults>
